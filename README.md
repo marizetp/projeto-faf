@@ -7,24 +7,28 @@ Este projeto é um sistema de gestão de informação desenvolvido em linguagem 
 **FUNCIONALIDADES**  
 
 **Gestão de Equipes**
+
 ✅ Cadastro de equipes (nome, cidade, ano de fundação, treinador).  
 ✅ Cadastro de até 30 jogadores por equipe.  
 ✅ Edição e remoção de equipes.  
 
  **Gestão de Jogadores**  
+ 
 ✅ Registro de jogadores (nome, idade, número da camisa, posição e equipe).  
 ✅ Restrições de idade (**mínimo 16 anos, máximo 40 anos**).  
 ✅ Atualização e remoção de jogadores.  
 
 **Gestão de Campeonatos**  
+
 ✅ Cadastro de campeonatos com mínimo de 4 e máximo de 20 equipes.    
 ✅ Encerramento do campeonato e cálculo do campeão.  
 
- **Gestão de Partidas**  
+ **Gestão de Partidas**
+ 
 ✅ Registro de partidas vinculadas a campeonatos.    
 ✅ Listagem de partidas campeonato.  
 
-## **💾 Armazenamento de Dados**  
+ **Armazenamento de Dados**  
 Os dados são armazenados em **arquivos** para garantir persistência, permitindo que o sistema mantenha os registros mesmo após ser fechado.  
 
  **Interface do Usuário**  
